@@ -1,0 +1,7 @@
+/.env
+node_modules
+test.js
+uploads
+Readme.txt
+package-lock.json
+errorLogger/logs/*

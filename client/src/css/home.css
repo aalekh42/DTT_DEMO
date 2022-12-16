@@ -1,0 +1,29 @@
+.home-container{
+    /* overflow:hidden; */
+    margin:12px;
+}
+
+.home-heading{
+    text-align: center;
+    color:#1161AB;
+    text-transform: capitalize;
+    font-family: 'Roboto Slab';
+}
+
+.upload-block{
+    /* border:2px solid red; */
+    /* min-height: 85vh;
+    padding-top: 30vh; */
+}
+
+.tab-name{
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.aggregated-heading{
+    font-weight: 600;
+    font-size: 18px;
+    color:#1161AB;
+    text-transform: uppercase; 
+}

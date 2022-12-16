@@ -1,0 +1,16 @@
+.error-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    min-height:90Vmin;
+}
+
+.error-heading{
+    text-align: center;
+    color:red
+}
+
+.error-para{
+    text-align: center;
+}
